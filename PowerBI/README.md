@@ -1,0 +1,17 @@
+# Power BI Projects
+
+Dashboards created during GoIT Data Analytics training.
+
+## Skills demonstrated
+
+- Data visualization
+- Dashboard development
+- Data analysis
+- KPI reporting
+
+## Tools
+
+- Power BI
+- Excel
+- CSV
+- SQL
