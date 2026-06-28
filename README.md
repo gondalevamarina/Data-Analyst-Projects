@@ -9,7 +9,7 @@ This repository includes projects using:
 - SQL
 - Power BI
 - Excel
-- Looker Studio
+- Data Studio
 - Python (Pandas)
 
 ## About me
@@ -32,5 +32,5 @@ I am combining HR expertise with data analytics skills to work with HR data, rep
 - Excel
 - SQL
 - Power BI
-- Looker Studio
+- Data Studio
 - Python (Pandas)
