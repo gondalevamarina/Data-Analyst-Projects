@@ -32,6 +32,6 @@ I am combining HR expertise with data analytics skills to work with HR data, rep
 - Excel
 - SQL
 - Power BI
-- Data Studio
+- Looker Studio
 - Tableau
 - Python (Pandas)
