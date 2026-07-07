@@ -1,4 +1,4 @@
-# Business Intelligence Revenue Insights
+# Product Revenue Performance Tracker
 
 This project features an interactive Tableau dashboard designed to track key business metrics, including monthly revenue, product performance, and user statistics (ARPPU). It demonstrates skills in data modeling, dashboard development, and business analytics.
 
