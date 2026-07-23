@@ -1,6 +1,6 @@
 # Product Analytics in Amplitude
 
-This project was completed as part of the GoIT Data Analytics program and demonstrates practical experience with product analytics in Amplitude. It includes user cohort creation, onboarding funnel analysis, user engagement, retention analysis, and interactive dashboards for monitoring key product metrics.
+Hands-on product analytics project completed as part of the GoIT Data Analytics program. The project includes cohort analysis, onboarding funnels, conversion tracking, user engagement metrics, retention analysis, and interactive dashboards built in Amplitude.
 
 ## Dashboards
 [Dashboard 1]: (https://app.amplitude.com/analytics/demo/dashboard/1kkiuw0n?source=copy+url) 
