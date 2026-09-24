@@ -15,3 +15,9 @@ View the Full Dashboard on Tableau Public [Dashboard](https://public.tableau.com
 This project features an interactive Tableau dashboard designed to analyze marketing campaign performance. It includes key marketing metrics such as Spend, Impressions, Clicks, Leads, CTR, CPC, CPL, CPM, and ROMI, as well as campaign ranking, efficiency, and performance trend analysis. The dashboard demonstrates practical skills in Tableau, data visualization, KPI reporting, and marketing analytics.
 
 View the Full Dashboard on Tableau Public [Dashboard](https://public.tableau.com/shared/Q5FQTPXK3?:display_count=n&:origin=viz_share_link)
+
+## Revenue Performance Dashboard
+
+This project features an interactive Tableau dashboard designed to track and analyze financial revenue streams and key business metrics, including Monthly Recurring Revenue (MRR), ARPPU, churn rates, and customer lifetime value (LTV). It demonstrates skills in SQL data extraction, Tableau dashboard development, and product analytics.
+
+View the Full Dashboard on Tableau Public [Dashboard](https://public.tableau.com/views/RevenuePerformanceDashboard_17896324487920/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
