@@ -16,7 +16,7 @@ This project features an interactive Tableau dashboard designed to analyze marke
 
 View the Full Dashboard on Tableau Public [Dashboard](https://public.tableau.com/shared/Q5FQTPXK3?:display_count=n&:origin=viz_share_link)
 
-## Revenue Performance Dashboard
+# Revenue Performance Dashboard
 
 This project features an interactive Tableau dashboard designed to track and analyze financial revenue streams and key business metrics, including Monthly Recurring Revenue (MRR), ARPPU, churn rates, and customer lifetime value (LTV). It demonstrates skills in SQL data extraction, Tableau dashboard development, and product analytics.
 
