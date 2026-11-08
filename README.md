@@ -11,7 +11,6 @@ This repository includes projects using:
 - Excel
 - Data Studio
 - Python (Pandas)
-- - [Дія.City: динаміка розвитку спеціального правового режиму 2022-2026](Diia-City-Research) — Python, Tableau, аналіз відкритого реєстру резидентів
 
 ## About me
 
