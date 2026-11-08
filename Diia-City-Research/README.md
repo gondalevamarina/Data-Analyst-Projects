@@ -102,8 +102,8 @@ Diia-City-Research/
 
 ## Список використаних джерел
 
-1. Закон України № 1667-IX «Про стимулювання розвитку цифрової економіки в Україні» — текст Закону на сайті Верховної Ради. URL: <https://zakon.rada.gov.ua/laws/show/1667-20#Text>
-2. Повідомлення про офіційний запуск Дія.City 8 лютого 2022 року — сайт Президента України. URL: <https://www.president.gov.ua/news/zapusk-diya-city-dast-ukrayini-zmogu-stati-najbilshim-it-hab-72753>
-3. Реєстр Дія.City. URL: <https://city.diia.gov.ua/registry/resident>
+1. Закон України № 1667-IX «Про стимулювання розвитку цифрової економіки в Україні» — текст Закону на сайті Верховної Ради. URL:https://zakon.rada.gov.ua/laws/show/1667-20#Text>
+2. Повідомлення про офіційний запуск Дія.City 8 лютого 2022 року — сайт Президента України. URL:<https://www.president.gov.ua/news/zapusk-diya-city-dast-ukrayini-zmogu-stati-najbilshim-it-hab-72753>
+3. Реєстр Дія.City. URL:<https://city.diia.gov.ua/registry/resident>
 
 Дані реєстру на сайті city.diia.gov.ua доступні за ліцензією Creative Commons Attribution 4.0 International, якщо не зазначено інше.
